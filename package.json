@@ -1,0 +1,23 @@
+{
+  "name": "nest-web",
+  "version": "1.0.0",
+  "description": "test web-application",
+  "homepage": "https://github.com/1ukhashka/nest-web#readme",
+  "bugs": {
+    "url": "https://github.com/1ukhashka/nest-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ukhashka/nest-web.git"
+  },
+  "license": "ISC",
+  "author": "lukhashka",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nest-web": "file:"
+  }
+}
